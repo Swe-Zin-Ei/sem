@@ -21,11 +21,12 @@ Software Engineering Methods
 
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
-![Master Build](https://github.com/Swe-Zin-Ei/sem/actions/workflows/main.yml/badge.svg?branch=master&style=flat-square&label=Master%20Build)
+![Master Build](https://img.shields.io/github/actions/workflow/status/Swe-Zin-Ei/sem/main.yml?branch=master&style=flat-square&label=Master%20Build)
 
-![Develop Build](https://github.com/Swe-Zin-Ei/sem/actions/workflows/main.yml/badge.svg?branch=develop&style=flat-square&label=Develop%20Build)
-
+![Develop Build](https://img.shields.io/github/actions/workflow/status/Swe-Zin-Ei/sem/main.yml?branch=develop&style=flat-square&label=Develop%20Build)
 
 [![LICENSE](https://img.shields.io/github/license/Swe-Zin-Ei/sem.svg?style=flat-square)](https://github.com/Swe-Zin-Ei/sem/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/Swe-Zin-Ei/sem/all.svg?style=flat-square)](https://github.com/Swe-Zin-Ei/sem/releases)
+
+[![codecov](https://codecov.io/github/Swe-Zin-Ei/sem/branch/develop/graph/badge.svg?token=CRC7UAM7HH)](https://codecov.io/github/Swe-Zin-Ei/sem)
