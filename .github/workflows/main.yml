@@ -2,7 +2,7 @@ name: A workflow for my Global World Population App
 on:
   push:
     branches:
-      - develop
+      - master
 
 permissions:
   contents: write

@@ -29,4 +29,4 @@ Software Engineering Methods
 
 [![Releases](https://img.shields.io/github/release/Swe-Zin-Ei/sem/all.svg?style=flat-square)](https://github.com/Swe-Zin-Ei/sem/releases)
 
-[![codecov](https://codecov.io/github/Swe-Zin-Ei/sem/branch/develop/graph/badge.svg?token=CRC7UAM7HH)](https://codecov.io/github/Swe-Zin-Ei/sem)
+[![codecov](https://codecov.io/github/Swe-Zin-Ei/sem/graph/badge.svg?token=31X8OQPM9P)](https://codecov.io/github/Swe-Zin-Ei/sem)
