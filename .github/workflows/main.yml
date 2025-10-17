@@ -22,7 +22,7 @@ jobs:
           java-version: '23'
           distribution: 'adopt'
       - name: Unit Tests
-        run: mvn -Dtest=com.globalworldpopulation.MySQL_Test_Unit_Test test
+        run: mvn -Dtest=com.napier.sem.MySQL_Test_Unit_Test test
       - name: CodeCov
         uses: codecov/codecov-action@v5
         with:
@@ -47,7 +47,7 @@ jobs:
       - name: Integration Tests
         run: |
           docker compose up -d db
-          mvn -Dtest=com.globalworldpopulation.MySQL_Test_Integration_Test test
+          mvn -Dtest=com.napier.sem.MySQL_Test_Integration_Test test
       - name: Shutdown
         run: docker compose down
       - name: CodeCov
